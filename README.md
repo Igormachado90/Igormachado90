@@ -5,7 +5,7 @@
   <img align="center" alt="igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="igor-Java" height="30" width="40" src="https://logospng.org/wp-content/uploads/java.png"> 
+  <img align="center" alt="igor-Java" height="30" width="40" src="[https://logospng.org/wp-content/uploads/java.png](https://img2.freepng.es/20190623/tol/kisspng-java-platform-standard-edition-java-servlet-progr-knots-beta-and-data-world-5d0f25e69a86b5.413204361561273830633.jpg)"> 
  </div>
 
 <!--
