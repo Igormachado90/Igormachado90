@@ -3,11 +3,12 @@
 ### Meu nome é Igor Machado e surdo, Seja bem-vinda
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="igor-HTML" height="30" width="40" src="https://github.com/Igormachado90/Igormachado90/assets/117872151/eafb3f92-7800-408a-9466-9199c1573b41">
   <img align="center" alt="igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
  </div>
-![image](https://github.com/Igormachado90/Igormachado90/assets/117872151/9fa312f7-72b4-4540-983d-3fac56265120)
+
+
 
 <!--
 **Igormachado90/Igormachado90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
