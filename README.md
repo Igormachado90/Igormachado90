@@ -1,7 +1,7 @@
 # Olá, Devs!! ☕
-## Meu nome é Igor Machado e surdo, Seja bem-vinda!
-<br>
-##Estou aprendendo e treinar:
+### Meu nome é Igor Machado e surdo, Seja bem-vinda!
+### Estou aprendendo e treinar:
+
 ##Front-end
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML logo" height="40" width="40" src="https://github.com/Igormachado90/Igormachado90/assets/117872151/eafb3f92-7800-408a-9466-9199c1573b41">
