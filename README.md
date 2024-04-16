@@ -13,7 +13,7 @@
 
 ##
 ### Estou aprendendo e estagiario:
-## Front-end
+#### Front-end
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML logo" height="35" width="35" src="https://github.com/Igormachado90/Igormachado90/assets/117872151/eafb3f92-7800-408a-9466-9199c1573b41">
   <img align="center" alt="CSS logo" height="35" width="35" src="https://github.com/Igormachado90/Igormachado90/assets/117872151/d85d92dd-464a-4457-b318-1a3cad9dabbc">
@@ -21,7 +21,7 @@
   <img align="center" alt="react logo" height="35" width="35" src="https://github.com/Igormachado90/Igormachado90/assets/117872151/51263394-aca3-4af2-acea-fb3045f2de3a"> 
  </div>
 
-## Back-end
+#### Back-end
 <div style="display: inline_block"><br>  
   <img align="center" alt="Mysql logo" height="35" width="35" src="https://github.com/Igormachado90/Igormachado90/assets/117872151/f7aca222-e717-4ee3-a704-f4fde0a7384f">  
   <img align="center" alt="node.js logo" height="35" width="35" src="https://github.com/Igormachado90/Igormachado90/assets/117872151/c27230fe-7608-438c-8a7e-35d50b08d40b">  
@@ -30,7 +30,7 @@
 
  ##
 
- ### Ferramentas
+ ### Ferramentas:
  <div style="display: inline_block"><br>  
   <img align="center" alt="vscode logo" height="35" width="35" src="https://github.com/Igormachado90/Igormachado90/assets/117872151/d93b57d0-a5a9-43d3-9e9d-05ca73ccf693">  
   <img align="center" alt="github logo" height="35" width="35" src="https://github.com/Igormachado90/Igormachado90/assets/117872151/f48479c3-18c4-41b7-9d18-8b1b51fd4e1e">  
