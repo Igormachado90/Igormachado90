@@ -13,19 +13,21 @@
 
 ##
 ### Estou aprendendo e estagiario:
-#### Front-end
+- ### Front-end
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML logo" height="35" width="35" src="https://github.com/Igormachado90/Igormachado90/assets/117872151/eafb3f92-7800-408a-9466-9199c1573b41">
   <img align="center" alt="CSS logo" height="35" width="35" src="https://github.com/Igormachado90/Igormachado90/assets/117872151/d85d92dd-464a-4457-b318-1a3cad9dabbc">
   <img align="center" alt="Js logo" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="react logo" height="35" width="35" src="https://github.com/Igormachado90/Igormachado90/assets/117872151/51263394-aca3-4af2-acea-fb3045f2de3a"> 
+  <img align="center" width="35" height="35" src="https://github.com/Igormachado90/Igormachado90/assets/117872151/cb8c7717-22b4-4138-a75f-3d9d57ce3c75">
  </div>
 
-#### Back-end
+- ### Back-end
 <div style="display: inline_block"><br>  
   <img align="center" alt="Mysql logo" height="35" width="35" src="https://github.com/Igormachado90/Igormachado90/assets/117872151/f7aca222-e717-4ee3-a704-f4fde0a7384f">  
   <img align="center" alt="node.js logo" height="35" width="35" src="https://github.com/Igormachado90/Igormachado90/assets/117872151/c27230fe-7608-438c-8a7e-35d50b08d40b">  
-  <img align="center" alt="npm logo" height="35" width="35" src="https://github.com/Igormachado90/Igormachado90/assets/117872151/33e04f55-46ce-4660-8aaf-988305bd9610">  
+  <img align="center" alt="npm logo" height="35" width="35" src="https://github.com/Igormachado90/Igormachado90/assets/117872151/33e04f55-46ce-4660-8aaf-988305bd9610"> 
+  <img align="center" width="35" height="35" src="https://github.com/Igormachado90/Igormachado90/assets/117872151/cb8c7717-22b4-4138-a75f-3d9d57ce3c75">
  </div>
 
  ##
