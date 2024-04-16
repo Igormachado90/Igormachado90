@@ -1,6 +1,5 @@
 # Olá, Devs!! ☕
-
-##Meu nome é Igor Machado e surdo, Seja bem-vinda
+## Meu nome é Igor Machado e surdo, Seja bem-vinda!
 <br>
 ##Estou aprendendo e treinar:
 ##Front-end
